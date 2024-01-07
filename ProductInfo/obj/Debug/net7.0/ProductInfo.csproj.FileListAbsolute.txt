@@ -1,0 +1,14 @@
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\bin\Debug\net7.0\ProductInfo.exe
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\bin\Debug\net7.0\ProductInfo.deps.json
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\bin\Debug\net7.0\ProductInfo.runtimeconfig.json
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\bin\Debug\net7.0\ProductInfo.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\bin\Debug\net7.0\ProductInfo.pdb
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\obj\Debug\net7.0\ProductInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\obj\Debug\net7.0\ProductInfo.AssemblyInfoInputs.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\obj\Debug\net7.0\ProductInfo.AssemblyInfo.cs
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\obj\Debug\net7.0\ProductInfo.csproj.CoreCompileInputs.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\obj\Debug\net7.0\ProductInfo.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\obj\Debug\net7.0\refint\ProductInfo.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\obj\Debug\net7.0\ProductInfo.pdb
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\obj\Debug\net7.0\ProductInfo.genruntimeconfig.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\ProductInfo\ProductInfo\obj\Debug\net7.0\ref\ProductInfo.dll
